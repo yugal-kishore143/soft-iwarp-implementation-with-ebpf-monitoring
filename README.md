@@ -131,3 +131,9 @@ Feel free to fork, contribute, or raise issues!
 ## 📜 License
 
 [MIT License](LICENSE)
+
+## 📃 Published paper links
+
+https://ieeexplore.ieee.org/document/10969859
+
+https://www.researchgate.net/publication/391254248_Implementing_RDMA_over_Soft-RoCE_with_Basic_eBPF_Monitoring_A_Cost-Effective_Approach_for_High-Performance_Data_Communication
